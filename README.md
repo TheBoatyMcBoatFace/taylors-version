@@ -12,8 +12,6 @@ https://github.com/spotify/spotify.github.io/issues/21
 
 ## Files
 
-## Files
-
 -   [**Cargo.toml**](./Cargo.toml)
 
     -   The package manager descriptor file for Rust. This file lists the project details and its dependencies.
